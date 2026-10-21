@@ -1,12 +1,12 @@
 {
-  "name": "Tu Clínica",
-  "shortName": "Clínica",
+  "name": "Clínica Demo",
+  "shortName": "Demo",
   "logo": "",
-  "logoAlt": "Logo de Tu Clínica",
+  "logoAlt": "Logo de Clínica Demo",
   "locale": "es-MX",
-  "themeColor": "#6b3a96",
-  "accentSoft": "#f3eaf8",
-  "accentDeep": "#4e2870",
+  "themeColor": "#0f766e",
+  "accentSoft": "#e6f4f2",
+  "accentDeep": "#0b4f4a",
   "phonePlaceholder": "686 123 4567",
   "services": [
     { "id": "initial", "label": "Primera cita (60 min)" },
